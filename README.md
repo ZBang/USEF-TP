@@ -1,2 +1,2 @@
 ### USEF-TP
-The demo of the USEF-TP model will be available soon ...
+Demo: https://zbang.github.io/USEF-TP-demo/
